@@ -6,6 +6,7 @@ def initalize
   @knowledge = []
 end
 
-
+def learn 
+  @
 
 end
